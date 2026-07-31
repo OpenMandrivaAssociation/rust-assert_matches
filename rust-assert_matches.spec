@@ -5,8 +5,8 @@
 %global crate assert_matches
 
 Name:           rust-%{crate}
-Version:        1.3.0
-Release:        2%{?dist}
+Version:        1.5.0
+Release:        1%{?dist}
 Summary:        Asserts that a value matches a pattern
 
 # Upstream license specification: MIT/Apache-2.0
